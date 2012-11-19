@@ -1,0 +1,1 @@
+"C:\Program Files\Mongo\bin\mongod.exe" --replSet myapp --dbpath C:\MongoReplication\data\node1 --port 40000
