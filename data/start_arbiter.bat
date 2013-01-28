@@ -1,1 +1,1 @@
-"C:\Program Files\Mongo\bin\mongod.exe" --replSet myapp --dbpath C:\MongoReplication\data\arbiter --port 40002
+"C:\Program Files\Mongo\bin\mongod.exe" --replSet myapp --dbpath arbiter --port 30000 --oplogSize 512

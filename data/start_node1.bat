@@ -1,1 +1,1 @@
-"C:\Program Files\Mongo\bin\mongod.exe" --replSet myapp --dbpath C:\MongoReplication\data\node1 --port 40000
+"C:\Program Files\Mongo\bin\mongod.exe" --replSet myapp --dbpath node1 --port 30001 --oplogSize 512
